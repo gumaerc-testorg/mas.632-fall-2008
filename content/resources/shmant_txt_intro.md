@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 162f8cc3-ab62-9ebf-bf11-9334b6618eaf
 resourcetype: Document
 title: Front Matter
 uid: dd1b9f92-f322-bd7c-a180-92b5d3f9a067

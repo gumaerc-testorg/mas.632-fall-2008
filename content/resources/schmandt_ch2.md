@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 162f8cc3-ab62-9ebf-bf11-9334b6618eaf
 resourcetype: Document
 title: Speech Production and Perception
 uid: 749014d3-31b1-9ed0-ea12-f9de4ede665a

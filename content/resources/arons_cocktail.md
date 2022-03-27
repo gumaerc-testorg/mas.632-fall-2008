@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 162f8cc3-ab62-9ebf-bf11-9334b6618eaf
 resourcetype: Document
 title: A Review of The Cocktail Party Effect
 uid: 51618a76-e39f-92ff-8340-b72e68dfdff2

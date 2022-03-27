@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 162f8cc3-ab62-9ebf-bf11-9334b6618eaf
 resourcetype: Document
 title: Desktop Audio
 uid: 984e873f-71ce-e2aa-043e-3336eff0ec24
