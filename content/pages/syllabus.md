@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on the course text, course structure, grades and policies, and the calendar of lecture
+  topics and assignment due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,7 +19,7 @@ Course Text
 
 Schmandt, C. _Voice Communication with Computers: Conversational Systems_. New York, NY: Van Nostrand Reinhold, 1993. ISBN: 9780442239350.
 
-**Note**: This book is now out of print, and is provided for downloading on the [readings]({{< baseurl >}}/pages/readings) page.
+**Note**: This book is now out of print, and is provided for downloading on the {{% resource_link 162f8cc3-ab62-9ebf-bf11-9334b6618eaf "readings" %}} page.
 
 Course Structure
 ----------------

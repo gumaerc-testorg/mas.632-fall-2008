@@ -2,7 +2,7 @@
 content_type: resource
 description: Bibliography and index to course textbook on voice communication with
   computers.
-file: /media/courses/mas-632-conversational-computer-systems-fall-2008/36eb626eef38ce3d8c406d36fb20e852_schmandt_indx.pdf
+file: /courses/mas-632-conversational-computer-systems-fall-2008/36eb626eef38ce3d8c406d36fb20e852_schmandt_indx.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
@@ -14,3 +14,5 @@ resourcetype: Document
 title: Bibliography and Index
 uid: 36eb626e-ef38-ce3d-8c40-6d36fb20e852
 ---
+Bibliography and index to course textbook on voice communication with computers.
+

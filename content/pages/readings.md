@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the course textbook in downloadable form and the
+  schedule of readings for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -18,21 +20,21 @@ Complete book ([PDF - 61.5 MB](/ans7870/MAS/MAS.632/F08/PDF/schmandt_txt_all.pdf
 
 Individual chapters
 
-*   Front matter: Table of contents, preface, introduction ([PDF - 3.1 MB]({{< baseurl >}}/resources/schmandt_intro))
-*   Chapter 1: Speech as communication ([PDF - 2.8 MB]({{< baseurl >}}/resources/schmandt_ch1))
-*   Chapter 2: Speech production and perception ([PDF - 3.0 MB]({{< baseurl >}}/resources/schmandt_ch2))
-*   Chapter 3: Speech coding ([PDF - 4.1 MB]({{< baseurl >}}/resources/schmandt_ch3))
-*   Chapter 4: Applications and editing of stored voice ([PDF - 4.0 MB]({{< baseurl >}}/resources/schmandt_ch4))
-*   Chapter 5: Speech synthesis ([PDF - 3.5 MB]({{< baseurl >}}/resources/schmandt_ch5))
-*   Chapter 6: Interactive voice response ([PDF - 6.3 MB]({{< baseurl >}}/resources/schmandt_ch6))
-*   Chapter 7: Speech recognition ([PDF - 4.0 MB]({{< baseurl >}}/resources/schmandt_ch7))
-*   Chapter 8: Using speech recognition ([PDF - 5.2 MB]({{< baseurl >}}/resources/schmandt_ch8))
-*   Chapter 9: Higher levels of linguistic knowledge ([PDF - 5.8 MB]({{< baseurl >}}/resources/schmandt_ch9))
-*   Chapter 10: Basics of telephones ([PDF - 3.7 MB]({{< baseurl >}}/resources/schmandt_ch10))
-*   Chapter 11: Telephones and computers ([PDF - 6.9 MB]({{< baseurl >}}/resources/schmandt_ch11))
-*   Chapter 12: Desktop audio ([PDF - 5.5 MB]({{< baseurl >}}/resources/schmandt_ch12))
-*   Chapter 13: Toward more robust communication ([PDF - 1.6 MB]({{< baseurl >}}/resources/schmandt_ch13))
-*   Bibliography and index ([PDF - 2.5 MB]({{< baseurl >}}/resources/schmandt_indx))
+*   Front matter: Table of contents, preface, introduction ({{% resource_link c3817726-2b01-eed0-f7f9-ad95e7ccc668 "PDF - 3.1 MB" %}})
+*   Chapter 1: Speech as communication ({{% resource_link 2e0ed777-545e-4da2-6e95-d8ddb1c63e47 "PDF - 2.8 MB" %}})
+*   Chapter 2: Speech production and perception ({{% resource_link 749014d3-31b1-9ed0-ea12-f9de4ede665a "PDF - 3.0 MB" %}})
+*   Chapter 3: Speech coding ({{% resource_link 2f14b7df-e31a-3ef6-fcb8-d686065e134a "PDF - 4.1 MB" %}})
+*   Chapter 4: Applications and editing of stored voice ({{% resource_link 96f20ad8-048f-4db0-822d-9881190d8865 "PDF - 4.0 MB" %}})
+*   Chapter 5: Speech synthesis ({{% resource_link 1df54261-1375-768f-ca68-733ce5bde30f "PDF - 3.5 MB" %}})
+*   Chapter 6: Interactive voice response ({{% resource_link 3a4f32d6-8c91-2907-5d5d-9f243bfc1d6c "PDF - 6.3 MB" %}})
+*   Chapter 7: Speech recognition ({{% resource_link d6a7e14a-217a-7391-596e-4dc51ed359e8 "PDF - 4.0 MB" %}})
+*   Chapter 8: Using speech recognition ({{% resource_link 512ed5a3-c615-9c6f-833b-fbfd738d9249 "PDF - 5.2 MB" %}})
+*   Chapter 9: Higher levels of linguistic knowledge ({{% resource_link 6e3d6d08-8c30-a760-141b-81397df75f81 "PDF - 5.8 MB" %}})
+*   Chapter 10: Basics of telephones ({{% resource_link 460ecd4b-b9f1-ba68-2c2f-7c40455e2917 "PDF - 3.7 MB" %}})
+*   Chapter 11: Telephones and computers ({{% resource_link 2554f82f-3e1a-938d-1de9-af594d7edff0 "PDF - 6.9 MB" %}})
+*   Chapter 12: Desktop audio ({{% resource_link 3cb40e8a-d63d-992b-f409-abf70b41b618 "PDF - 5.5 MB" %}})
+*   Chapter 13: Toward more robust communication ({{% resource_link db6d96dc-57a7-cdcd-eb27-f8410cb49073 "PDF - 1.6 MB" %}})
+*   Bibliography and index ({{% resource_link 36eb626e-ef38-ce3d-8c40-6d36fb20e852 "PDF - 2.5 MB" %}})
 
 Reading Assignments
 -------------------
@@ -85,7 +87,7 @@ Isaacs, E. A., and J. C. Tang. "[What Video Can and Cannot Do For Collaboration:
 
 Schmandt, chapter 1.
 
-Look at these wideband and narrow band spectrogram examples ([PDF]({{< baseurl >}}/resources/zue_spectrograms))
+Look at these wideband and narrow band spectrogram examples ({{% resource_link be92b5e4-4a1b-acca-81fc-949610d82b93 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -101,7 +103,7 @@ Speech production and hearing
 {{< tdopen >}}
 
 
-Arons, B. "Techniques, Peception and Applications of Time-Compressed Speech." _Proceedings of AVIOS 1992_. ([PDF - 1.9 MB]({{< baseurl >}}/resources/arons_timecomp)) (Courtesy of Barry Arons. Used with permission.)
+Arons, B. "Techniques, Peception and Applications of Time-Compressed Speech." _Proceedings of AVIOS 1992_. ({{% resource_link ee5c83da-c807-9f6d-25bb-657f5ed393bd "PDF - 1.9 MB" %}}) (Courtesy of Barry Arons. Used with permission.)
 
 Schmandt, chapter 2.
 
@@ -135,11 +137,11 @@ Accessing recorded speech
 {{< tdopen >}}
 
 
-Arons, B. "A Review of the Cocktail Party Effect." _Journal of the American Voice I/O Society_, July 1992. ([PDF - 1.7 MB]({{< baseurl >}}/resources/arons_cocktail)) (Courtesy of Barry Arons. Used with permission.)
+Arons, B. "A Review of the Cocktail Party Effect." _Journal of the American Voice I/O Society_, July 1992. ({{% resource_link 51618a76-e39f-92ff-8340-b72e68dfdff2 "PDF - 1.7 MB" %}}) (Courtesy of Barry Arons. Used with permission.)
 
 Mullins, M., and C. Schmandt. "[AudioStreamer: Exploring Simultaneity for Listening](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.63.1749&rep=rep1&type=pdf)." _Proceedings of CHI 1995_.
 
-Kobayashi, M., and C. Schmandt. "Dynamic Soundscape: Mapping Time to Space for Audio Browsing." _Proceedings of CHI 1997_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.media.mit.edu/speech/papers/1997/kobayashi_CHI97_dynamic_soundscape.pdf))
+Kobayashi, M., and C. Schmandt. "Dynamic Soundscape: Mapping Time to Space for Audio Browsing." _Proceedings of CHI 1997_. ([PDF](http://www.media.mit.edu/speech/papers/1997/kobayashi_CHI97_dynamic_soundscape.pdf))
 
 Schmandt, chapter 4. (skim)
 
@@ -163,7 +165,7 @@ Pisoni, D. B., H. C. Nusbaum, and B. G. Greene. "[Perception of Synthetic Speech
 
 Lai, J., D. Wood, and M. Considine. "[The Effect of Task Conditions on the Comprehensibility of Synthetic Speech](http://doi.acm.org/10.1145/332040.332451)." _Proceedings of CHI 2000_, The Hague, Netherlands.
 
-Gong, L., and J. Lai. "[Shall We Mix Synthetic Speech and Human Speech?: Impact on User's Performance, Perception, and Attitude](http://doi.acm.org/10.1145/332040.332451)." _Proceedings of CHI 2001_, Seattle, WA. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.csis.pace.edu/~ctappert/dps/pdf/lai/mix.pdf))
+Gong, L., and J. Lai. "[Shall We Mix Synthetic Speech and Human Speech?: Impact on User's Performance, Perception, and Attitude](http://doi.acm.org/10.1145/332040.332451)." _Proceedings of CHI 2001_, Seattle, WA. ([PDF](http://www.csis.pace.edu/~ctappert/dps/pdf/lai/mix.pdf))
 
 Lai, J., K. Cheng, P. Green, and O. Tsimhoni. "[On the Road and on the Web?: Comprehension of Synthetic and Human Speech While Driving](http://doi.acm.org/10.1145/365024.365100)." _Proceedings of CHI 2001_, Seattle, WA.
 
@@ -201,9 +203,9 @@ Rudnicky, A., and A. Hauptman. "[Models for Evaluating Interaction Protocols in 
 
 Suhm, B., et. al. "[A Comparative Study of Speech in the Call Center: Natural Language Call Routing vs. Touch-tone Menus](http://doi.acm.org/10.1145/503376.503427)." _Proceedings of CHI 2002_, Minneapolis, MN.
 
-Walker, M. A., et al. "[What can I say? Evaluating a spoken language interface to email](http://doi.acm.org/10.1145/274644.274722)." _Proceedings of CHI 1998_, Los Angeles, CA. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.difabbrizio.com/papers/chi98-elvis.pdf))
+Walker, M. A., et al. "[What can I say? Evaluating a spoken language interface to email](http://doi.acm.org/10.1145/274644.274722)." _Proceedings of CHI 1998_, Los Angeles, CA. ([PDF](http://www.difabbrizio.com/papers/chi98-elvis.pdf))
 
-Yankelovich, N., et al. "[Designing SpeechActs: Issues in Speech User Interfaces](http://doi.acm.org/10.1145/223904.223952)." _Proceedings of CHI 1995_, Denver, CO. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.media.mit.edu/speech/papers/1995/yankelovich_CHI95_speechacts.pdf))
+Yankelovich, N., et al. "[Designing SpeechActs: Issues in Speech User Interfaces](http://doi.acm.org/10.1145/223904.223952)." _Proceedings of CHI 1995_, Denver, CO. ([PDF](http://www.media.mit.edu/speech/papers/1995/yankelovich_CHI95_speechacts.pdf))
 
 Marx, M., and C. Schmadt. "[MailCall: Message Presentation and Navigation in a Nonvisual Environment](http://doi.acm.org/10.1145/238386.238467)." _Proceedings of CHI 1996_, Vancouver, BC.
 
@@ -229,7 +231,7 @@ Ranjan, A., et al. "[Searching in Audio: The Utility of Transcripts, Dichotic Pr
 
 Whittaker, S., et al. "[SCANMail: A Voicemail Interface that Makes Speech Browsable, Readable, and Searchable](http://doi.acm.org/10.1145/503376.503426)." _Proceedings of CHI 2003_, Minneapolis, MN.
 
-Vemuri, S., and W. Bender. "Next-generation Personal Memory Aids." _BT Technology Journal_ 22, no. 4 (October 2004): 125-138. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.media.mit.edu/~vemuri/research-pub/iremember-btj2004.pdf))
+Vemuri, S., and W. Bender. "Next-generation Personal Memory Aids." _BT Technology Journal_ 22, no. 4 (October 2004): 125-138. ([PDF](http://web.media.mit.edu/~vemuri/research-pub/iremember-btj2004.pdf))
 
 Tucker, S., and S. Whitaker. "[Time is of the Eessence: An Evaluation of Temporal Compression Algorithms](http://doi.acm.org/10.1145/1124772.1124822)." _Proceedings of CHI 2006_, Montréal, Québec, Canada.
 
@@ -253,9 +255,9 @@ Duncan, S. "Some Signals and Rules for Taking Speaking Turns in Conversations." 
 
 Goffman, Erving. "Replies and Responses." Chapter 1 in _Forms of Talk_. Philadelphia, PA: University of Pennsylvania Press, 1981, pp. 5-77. ISBN: 9780812211122. \[[Preview](http://books.google.com/books?id=Z3bvx_T4Zu8C&pg=PA1&source=gbs_toc_r&cad=0_0#PPA5,M1) this chapter in Google Books.\]
 
-Grosz, B., and C. Sidner. "Attention, Intentions, and the Structure of Discourse." _Computational Linguistics_ 12, no. 3 (July-September, 1986): 176-204. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.9 MB](http://nlp.stanford.edu/acvogel/groszsidner.pdf))
+Grosz, B., and C. Sidner. "Attention, Intentions, and the Structure of Discourse." _Computational Linguistics_ 12, no. 3 (July-September, 1986): 176-204. ([PDF - 2.9 MB](http://nlp.stanford.edu/acvogel/groszsidner.pdf))
 
-Clark, H., and S. Brennan. "Grounding in Communication." Chapter 7 in _Perspectives on Socially Shared Cognition_. Edited by L. Resnick, J. Levine, and S. Teasley. Washington DC: American Psychological Association, 1991. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.psychology.sunysb.edu/sbrennan-/papers/clarkbrennan.pdf))
+Clark, H., and S. Brennan. "Grounding in Communication." Chapter 7 in _Perspectives on Socially Shared Cognition_. Edited by L. Resnick, J. Levine, and S. Teasley. Washington DC: American Psychological Association, 1991. ([PDF](http://www.psychology.sunysb.edu/sbrennan-/papers/clarkbrennan.pdf))
 
 
 {{< tdclose >}}
@@ -275,7 +277,7 @@ Nowak, K., and C. Rauh. "[The Influence of the Avatar on Online Perceptions of A
 
 Lampel, J., and A. Bhalla. "[The Role of Status Seeking in Online Communities: Giving the Gift of Experience](http://jcmc.indiana.edu/vol12/issue2/lampel.html)." _Journal of Computer Mediated Communication_ 12, no. 2 (2007).
 
-Ren, Y., R. Kraut, and S. Kiesler. "Applying Common Identity and Bond Theory to Design of Online Communities." _Organizational Studies_ 28 (2007): 377. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.cs.cmu.edu/~kraut/RKraut.site.files/articles/Ren07-ApplyingCommonIdentityCommonBondToDesignOfCommunities.pdf))
+Ren, Y., R. Kraut, and S. Kiesler. "Applying Common Identity and Bond Theory to Design of Online Communities." _Organizational Studies_ 28 (2007): 377. ([PDF](http://www.cs.cmu.edu/~kraut/RKraut.site.files/articles/Ren07-ApplyingCommonIdentityCommonBondToDesignOfCommunities.pdf))
 
 Davis, F. "Do Clothes Speak? What Makes them Fashion?" Chapter 1 in _Fashion, Culture, and Identity_. Chicago, IL: University of Chicago Press, 1994. ISBN: 9780226138091. \[[Preview](http://books.google.com/books?id=p-KvoXTYtVoC&printsec=frontcover#PPA1,M1) this chapter in Google Books.\]
 
@@ -295,9 +297,9 @@ Presence and being there
 {{< tdopen >}}
 
 
-Zhao, S. "Towards a Taxonomy of Copresence." _Presence_ 12, no. 5 (October 2003): 445-455. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [PDF](http://www.mitpressjournals.org/doi/pdf/10.1162/105474603322761261))
+Zhao, S. "Towards a Taxonomy of Copresence." _Presence_ 12, no. 5 (October 2003): 445-455. ( [PDF](http://www.mitpressjournals.org/doi/pdf/10.1162/105474603322761261))
 
-Casanueva, J., and E. Blake. "The Effects of Group Collaboration on Presence in a Collaborative Virtual Environment." _Proceedings of Eurographics Workshop on Virtual Environments_, 2000. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://pubs.cs.uct.ac.za/archive/00000285/01/CS00-07-00.pdf))
+Casanueva, J., and E. Blake. "The Effects of Group Collaboration on Presence in a Collaborative Virtual Environment." _Proceedings of Eurographics Workshop on Virtual Environments_, 2000. ([PDF](http://pubs.cs.uct.ac.za/archive/00000285/01/CS00-07-00.pdf))
 
 Hollan, J., and S. Stornetta. "[Beyond Being There](http://doi.acm.org/10.1145/142750.142769)." _Proceedings of the Conference on Human Factors in Computing Systems 1992_, Monterey, CA.
 
