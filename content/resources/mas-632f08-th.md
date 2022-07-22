@@ -15,10 +15,10 @@ image_metadata:
   image-alt: Diagram comparing the word boundary relationships among the similar utterances
     'hurtful tanks,' 'heartfelt thanks,' 'her felt hankies,' and 'he artfully banks.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Diagram comparing the word boundary relationships among the similar utterances
 uid: 4464d3b4-2242-0c68-15da-373512a23cbf
 ---
 In speech recognition, different sequences of words could match an utterance; each sequence implies different word boundaries in the input utterance.  See Chapter 7 in the course text for more details on this example. (Courtesy of Christopher Schmandt.)
-

@@ -5,6 +5,7 @@ file: /courses/mas-632-conversational-computer-systems-fall-2008/be92b5e44a1bacc
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Wide Band and Narrow Band Spectrogram Examples
 uid: be92b5e4-4a1b-acca-81fc-949610d82b93
 ---
 Lecture presentation with examples of wide band and narrow band spectrograms.
-

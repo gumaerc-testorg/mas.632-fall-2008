@@ -5,6 +5,7 @@ file: /courses/mas-632-conversational-computer-systems-fall-2008/4832d2434367450
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem Set 5
 uid: 4832d243-4367-4509-ed47-37e8e5dc4961
 ---
 Problem set on voice communication with computers.
-

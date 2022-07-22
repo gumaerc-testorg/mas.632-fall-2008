@@ -6,6 +6,7 @@ file: /courses/mas-632-conversational-computer-systems-fall-2008/51618a76e39f92f
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: A Review of The Cocktail Party Effect
 uid: 51618a76-e39f-92ff-8340-b72e68dfdff2
 ---
 Article for a reading assignment: Arons, B. "A Review of the Cocktail Party Effect." Journal of the American Voice I/O Society, July 1992.
-

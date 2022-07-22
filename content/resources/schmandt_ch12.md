@@ -7,6 +7,7 @@ file: /courses/mas-632-conversational-computer-systems-fall-2008/3cb40e8ad63d992
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Desktop Audio
 uid: 3cb40e8a-d63d-992b-f409-abf70b41b618
 ---
 Chapter excerpted from the course textbook on applications of speech technology in an ordinary desktop computing environment used for day-to-day office activities.
-

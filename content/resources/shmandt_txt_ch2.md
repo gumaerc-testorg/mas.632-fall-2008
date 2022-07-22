@@ -6,6 +6,7 @@ file: /courses/mas-632-conversational-computer-systems-fall-2008/9b3e0415f1018de
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Speech Production and Perception
 uid: 9b3e0415-f101-8de4-961d-20130ee95a90
 ---
 Chapter excerpted from the course textbook with an overview of the production and perception of speech.
-

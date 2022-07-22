@@ -7,6 +7,7 @@ file: /courses/mas-632-conversational-computer-systems-fall-2008/08a8687143d0137
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Interactive Voice Response
 uid: 08a86871-43d0-1370-4f6e-988ce3f85fe1
 ---
 Chapter excerpted from the course textbook on interactive voice response. This chapter is about building interactive computer systems that use speech, either recorded or synthesized, as their sole form of output.
-

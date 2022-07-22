@@ -5,6 +5,7 @@ file: /courses/mas-632-conversational-computer-systems-fall-2008/1df542611375768
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Speech Synthesis
 uid: 1df54261-1375-768f-ca68-733ce5bde30f
 ---
 Chapter excerpted from the course textbook on speech synthesis.
-

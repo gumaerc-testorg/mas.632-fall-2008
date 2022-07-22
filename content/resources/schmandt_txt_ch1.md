@@ -6,6 +6,7 @@ file: /courses/mas-632-conversational-computer-systems-fall-2008/1f5b611497bffc0
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Speech as Communication
 uid: 1f5b6114-97bf-fc06-5c78-aa5d033a460f
 ---
 Chapter excerpted from the course textbook on the role of speech in our daily lives.
-

@@ -6,6 +6,7 @@ file: /courses/mas-632-conversational-computer-systems-fall-2008/5b6a7718fde0b9a
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Using Speech Recognition
 uid: 5b6a7718-fde0-b9a8-3081-c613f7886afb
 ---
 Chapter excerpted from the course textbook on how speech recognition can be used in applications.
-

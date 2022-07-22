@@ -6,6 +6,7 @@ file: /courses/mas-632-conversational-computer-systems-fall-2008/ee5c83dac8079f6
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Techniques, Perception, and Applications of Time-Compressed Speech
 uid: ee5c83da-c807-9f6d-25bb-657f5ed393bd
 ---
 Article for a reading assignment: Arons, B. "Techniques, Peception and Applications of Time-Compressed Speech." Proceedings of AVIOS 1992.
-
