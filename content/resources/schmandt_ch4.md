@@ -4,6 +4,7 @@ description: Chapter excerpted from the course textbook on computer applications
   stored speech with particular emphasis on the underlying system support they require,
   especially sound storage facilities and editing.
 file: /courses/mas-632-conversational-computer-systems-fall-2008/96f20ad8048f4db0822d9881190d8865_schmandt_ch4.pdf
+file_size: 4215245
 file_type: application/pdf
 learning_resource_types:
 - Readings

@@ -5,6 +5,7 @@ description: "Chapter excerpted from the course textbook. This final chapter ret
   \ domains in which computers woefully lag our conversational abilities beyond hearing\
   \ words or stringing them together into spo\xADken sentences."
 file: /courses/mas-632-conversational-computer-systems-fall-2008/db6d96dc57a7cdcdeb27f8410cb49073_schmandt_ch13.pdf
+file_size: 1647429
 file_type: application/pdf
 learning_resource_types:
 - Readings
