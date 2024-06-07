@@ -4,6 +4,7 @@ description: Chapter excerpted from the course textbook on interactive voice res
   This chapter is about building interactive computer systems that use speech, either
   recorded or synthesized, as their sole form of output.
 file: /courses/mas-632-conversational-computer-systems-fall-2008/08a8687143d013704f6e988ce3f85fe1_shmandt_txt_ch6.pdf
+file_size: 6603219
 file_type: application/pdf
 learning_resource_types:
 - Readings
