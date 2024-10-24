@@ -2,7 +2,7 @@
 content_type: resource
 description: Table of contents, preface, and introduction to the course textbook on
   voice communication with computers.
-file: /courses/mas-632-conversational-computer-systems-fall-2008/dd1b9f92f322bd7ca18092b5d3f9a067_shmant_txt_intro.pdf
+file: /ol-ocw-studio-app/courses/mas-632-conversational-computer-systems-fall-2008/dd1b9f92f322bd7ca18092b5d3f9a067_shmant_txt_intro.pdf
 file_size: 3418301
 file_type: application/pdf
 learning_resource_types:
