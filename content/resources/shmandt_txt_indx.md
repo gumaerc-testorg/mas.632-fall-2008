@@ -2,7 +2,7 @@
 content_type: resource
 description: Bibliography and index to course textbook on voice communication with
   computers.
-file: /courses/mas-632-conversational-computer-systems-fall-2008/3c74945dadd0262c0cd0652e3f51ca55_shmandt_txt_indx.pdf
+file: /ol-ocw-studio-app/courses/mas-632-conversational-computer-systems-fall-2008/3c74945dadd0262c0cd0652e3f51ca55_shmandt_txt_indx.pdf
 file_size: 2604603
 file_type: application/pdf
 learning_resource_types:

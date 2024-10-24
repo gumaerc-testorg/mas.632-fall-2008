@@ -3,7 +3,7 @@ content_type: resource
 description: Chapter excerpted from the course textbook on applications of speech
   technology in an ordinary desktop computing environment used for day-to-day office
   activities.
-file: /courses/mas-632-conversational-computer-systems-fall-2008/3cb40e8ad63d992bf409abf70b41b618_schmandt_ch12.pdf
+file: /ol-ocw-studio-app/courses/mas-632-conversational-computer-systems-fall-2008/3cb40e8ad63d992bf409abf70b41b618_schmandt_ch12.pdf
 file_size: 5822471
 file_type: application/pdf
 learning_resource_types:

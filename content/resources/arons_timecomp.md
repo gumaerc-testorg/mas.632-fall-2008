@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Article for a reading assignment: Arons, B. "Techniques, Peception and
   Applications of Time-Compressed Speech." Proceedings of AVIOS 1992.'
-file: /courses/mas-632-conversational-computer-systems-fall-2008/ee5c83dac8079f6d25bb657f5ed393bd_arons_timecomp.pdf
+file: /ol-ocw-studio-app/courses/mas-632-conversational-computer-systems-fall-2008/ee5c83dac8079f6d25bb657f5ed393bd_arons_timecomp.pdf
 file_size: 1955053
 file_type: application/pdf
 learning_resource_types:
