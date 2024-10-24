@@ -4,7 +4,7 @@ description: "Chapter excerpted from the course textbook on speech coding. This 
   \ introduces the methods of encoding speech digitally for use in such \r\ndiverse\
   \ environments as talking toys, compact audio discs, and transmission over the telephone\
   \ network."
-file: /courses/mas-632-conversational-computer-systems-fall-2008/2f14b7dfe31a3ef6fcb8d686065e134a_schmandt_ch3.pdf
+file: /ol-ocw-studio-app/courses/mas-632-conversational-computer-systems-fall-2008/2f14b7dfe31a3ef6fcb8d686065e134a_schmandt_ch3.pdf
 file_size: 4348172
 file_type: application/pdf
 learning_resource_types:

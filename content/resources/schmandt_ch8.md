@@ -2,7 +2,7 @@
 content_type: resource
 description: Chapter excerpted from the course textbook on how speech recognition
   can be used in applications.
-file: /courses/mas-632-conversational-computer-systems-fall-2008/512ed5a3c6159c6f833bfbfd738d9249_schmandt_ch8.pdf
+file: /ol-ocw-studio-app/courses/mas-632-conversational-computer-systems-fall-2008/512ed5a3c6159c6f833bfbfd738d9249_schmandt_ch8.pdf
 file_size: 5413244
 file_type: application/pdf
 learning_resource_types:
