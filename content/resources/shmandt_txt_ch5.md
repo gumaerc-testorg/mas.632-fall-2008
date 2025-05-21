@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Chapter excerpted from the course textbook on speech synthesis.
-file: /ol-ocw-studio-app/courses/mas-632-conversational-computer-systems-fall-2008/4cdd85eabdf999b5386bb5a49ccaa72d_shmandt_txt_ch5.pdf
+file: /courses/mas-632-conversational-computer-systems-fall-2008/4cdd85eabdf999b5386bb5a49ccaa72d_shmandt_txt_ch5.pdf
 file_size: 3626841
 file_type: application/pdf
 learning_resource_types:
