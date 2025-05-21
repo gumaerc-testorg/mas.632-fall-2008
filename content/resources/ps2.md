@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on voice communication with computers.
-file: /ol-ocw-studio-app/courses/mas-632-conversational-computer-systems-fall-2008/84ac7cf63a6cef47a339569afa11a665_ps2.pdf
+file: /courses/mas-632-conversational-computer-systems-fall-2008/84ac7cf63a6cef47a339569afa11a665_ps2.pdf
 file_size: 22646
 file_type: application/pdf
 learning_resource_types:

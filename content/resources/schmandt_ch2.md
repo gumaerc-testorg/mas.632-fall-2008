@@ -2,7 +2,7 @@
 content_type: resource
 description: Chapter excerpted from the course textbook with an overview of the production
   and perception of speech.
-file: /ol-ocw-studio-app/courses/mas-632-conversational-computer-systems-fall-2008/749014d331b19ed0ea12f9de4ede665a_schmandt_ch2.pdf
+file: /courses/mas-632-conversational-computer-systems-fall-2008/749014d331b19ed0ea12f9de4ede665a_schmandt_ch2.pdf
 file_size: 3089997
 file_type: application/pdf
 learning_resource_types:
