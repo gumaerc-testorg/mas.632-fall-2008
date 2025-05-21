@@ -3,7 +3,7 @@ content_type: resource
 description: "Chapter excerpted from the course textbook on speech recognition. This\
   \ chapter is about the technologies used to allow computers to recognize the \r\n\
   words in human speech."
-file: /ol-ocw-studio-app/courses/mas-632-conversational-computer-systems-fall-2008/d6a7e14a217a7391596e4dc51ed359e8_schmandt_ch7.pdf
+file: /courses/mas-632-conversational-computer-systems-fall-2008/d6a7e14a217a7391596e4dc51ed359e8_schmandt_ch7.pdf
 file_size: 4215985
 file_type: application/pdf
 learning_resource_types:
