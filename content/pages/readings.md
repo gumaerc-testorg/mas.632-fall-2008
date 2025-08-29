@@ -15,7 +15,7 @@ Schmandt, C. *Voice Communication with Computers: Conversational Systems*. New Y
 
 **Note**: This book is now out of print, and is provided below in downloadable PDF form.
 
-Complete book ([PDF - 61.5 MB](https://ocw-studio.odl.mit.edu/ans7870/MAS/MAS.632/F08/PDF/schmandt_txt_all.pdf))
+Complete book {{% resource_link "d6f64639-eeee-4da5-bc83-6502ff584373" "(PDF - 61.5 MB" %}})
 
 Individual chapters
 
