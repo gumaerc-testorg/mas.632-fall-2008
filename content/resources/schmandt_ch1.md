@@ -2,7 +2,7 @@
 content_type: resource
 description: Chapter excerpted from the course textbook on the role of speech in our
   daily lives.
-file: /courses/mas-632-conversational-computer-systems-fall-2008/2e0ed777545e4da26e95d8ddb1c63e47_schmandt_ch1.pdf
+file: /ol-ocw-studio-app/courses/mas-632-conversational-computer-systems-fall-2008/2e0ed777545e4da26e95d8ddb1c63e47_schmandt_ch1.pdf
 file_size: 2924622
 file_type: application/pdf
 learning_resource_types:

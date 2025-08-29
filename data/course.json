@@ -43,11 +43,12 @@
     "website": "mas-632-conversational-computer-systems-fall-2008"
   },
   "learning_resource_types": [
-    "Online Textbook",
+    "Open Textbooks",
     "Problem Sets",
     "Written Assignments"
   ],
   "site_uid": "0205702d-6017-49cd-b99b-9c6b959fecd6",
   "site_short_id": "mas.632-fall-2008",
+  "site_url_path": "courses/mas-632-conversational-computer-systems-fall-2008",
   "title": "Course Metadata"
 }
