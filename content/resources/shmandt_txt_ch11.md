@@ -3,7 +3,7 @@ content_type: resource
 description: Chapter excerpted from the course textbook on the benefits computers
   offer for call management through the enhanced services and flexible call routing
   they can provide.
-file: /courses/mas-632-conversational-computer-systems-fall-2008/ed78e83c8fd99b6703bf42478b956472_shmandt_txt_ch11.pdf
+file: /ol-ocw-studio-app/courses/mas-632-conversational-computer-systems-fall-2008/ed78e83c8fd99b6703bf42478b956472_shmandt_txt_ch11.pdf
 file_size: 7210264
 file_type: application/pdf
 learning_resource_types:
